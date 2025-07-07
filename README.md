@@ -1,5 +1,5 @@
 # Dimah's website 
-Welcome to my peronal website 
+Welcome to my personal website 
 This website showcases about me, interests, and ways to contact me. 
 
 # Features
